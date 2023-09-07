@@ -1,2 +1,2 @@
-#import core
+#import .core
 from .core import *
